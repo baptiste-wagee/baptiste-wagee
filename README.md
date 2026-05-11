@@ -12,7 +12,7 @@ Ce profil GitHub me sert de support pour regrouper l'ensemble de mes travaux tec
 | Nom | Description | Langages |
 | :--- | :--- | :--- |
 | **[Overtake](https://github.com/baptiste-wagee/Overtake)** | Description rapide de ta SAE ou projet perso. | Java, SQL |
-| **[Tamagotchi](https://github.com/baptiste-wagee/Tamagotchi/tree/main)** | Ce projet est un projet Tamagochi pour m'habituer a la programation java POO.<br> (Aucun cote graphique n'est maitrisé dans ce projet) | ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) |
+| **[Tamagotchi](https://github.com/baptiste-wagee/Tamagotchi/tree/main)** | Ce projet est un projet Tamagochi pour m'habituer a la programation java POO.<br> (Aucun cote graphique n'est maitrisé dans ce projet) | Java |
 | **Site Web Perso** | Mon portfolio en ligne. | HTML, CSS |
 
 ---
