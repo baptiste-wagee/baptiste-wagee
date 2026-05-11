@@ -18,7 +18,7 @@ J'utilise GitHub pour partager mes projets de cours (SAE) ainsi que mes expérim
 
 ---
 
-## 💻 Logiciels & Outils
+## 💻 Les logiciels que je maitrise
 
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=flat-square&logo=intellij-idea&logoColor=white)
