@@ -6,7 +6,7 @@ J'utilise GitHub pour partager mes projets ainsi que mes expérimentations perso
 ---
 ## 🛠️ Mes projets !
 
-| Projet | Description | Stack |
+| Nom | Description | Langages |
 | :--- | :--- | :--- |
 | **Nom du Projet 1** | Description rapide de ta SAE ou projet perso. | Java, SQL |
 | **Nom du Projet 2** | Un autre super projet réalisé en cours. | Python |
@@ -14,7 +14,7 @@ J'utilise GitHub pour partager mes projets ainsi que mes expérimentations perso
 
 ---
 
-## 🛠 Mes Compétences
+## 📝 Les Langages que je maitrisés
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
@@ -35,7 +35,8 @@ J'utilise GitHub pour partager mes projets ainsi que mes expérimentations perso
 
 ---
 
-## 📫 Me contacter
+## ✉️ Me contacter
 
+Si mes competences ou autres vous interesse vous trouerez ici mon mail profesionelle ainsi que d'autre moyen de me contacter avoir acces a mon cv etc.
 - **Email :** [ton.email@exemple.com](mailto:ton.email@exemple.com)
 - **LinkedIn :** [linkedin.com/in/ton-profil](https://linkedin.com/in/ton-profil)
