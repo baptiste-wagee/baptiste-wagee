@@ -37,6 +37,6 @@ J'utilise GitHub pour partager mes projets ainsi que mes expérimentations perso
 
 ## ✉️ Me contacter
 
-Si mes competences ou autres vous interesse vous trouerez ici mon mail profesionelle ainsi que d'autre moyen de me contacter avoir acces a mon cv etc.
+Si mon profil ou mes compétences vous intéressent pour un stage ou un projet, vous trouverez ci-dessous mes coordonnées. Je suis ouvert à toute proposition d'échange concernant le développement ou l'informatique en général.
 - **Email :** [ton.email@exemple.com](mailto:ton.email@exemple.com)
 - **LinkedIn :** [linkedin.com/in/ton-profil](https://linkedin.com/in/ton-profil)
