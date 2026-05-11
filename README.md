@@ -1,8 +1,11 @@
 # Salut, je m'appelle Baptiste ! 🏎️
 
 ### Je suis un étudiant de 18 ans en BUT Informatique a l'IUT artois de lens 💻
-J'utilise GitHub pour partager mes projets ainsi que mes expérimentations personnelles.
+Ce profil GitHub me sert de support pour regrouper l'ensemble de mes travaux techniques et de mes productions de code.
 
+* **Centralisation des travaux :** J'utilise ce compte pour héberger mes différents projets, qu'ils soient réalisés dans un cadre académique ou pour tester de nouveaux outils.
+* **Suivi technique :** Vous trouverez ici l'évolution de mes compétences sur différents langages comme le Java, le Python ou le SQL, ainsi que mes scripts d'automatisation Bash.
+* **Documentation :** Chaque dépôt est l'occasion de mettre en pratique la gestion de version avec Git et de structurer mes solutions de manière claire.
 ---
 ## 🛠️ Mes projets !
 
