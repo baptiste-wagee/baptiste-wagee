@@ -1,9 +1,7 @@
 # Salut, je m'appelle Baptiste ! 🏎️
 
 ### Je suis un étudiant de 18 ans en BUT Informatique a l'IUT artois de lens 💻
-J'utilise GitHub pour partager mes projets de cours (SAE) ainsi que mes expérimentations personnelles.
-
-📍 **France** | 👨‍💻 **Futur Développeur**
+J'utilise GitHub pour partager mes projets ainsi que mes expérimentations personnelles.
 
 ---
 
