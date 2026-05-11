@@ -4,6 +4,15 @@
 J'utilise GitHub pour partager mes projets ainsi que mes expérimentations personnelles.
 
 ---
+## 🛠️ Mes projets !
+
+| Projet | Description | Stack |
+| :--- | :--- | :--- |
+| **Nom du Projet 1** | Description rapide de ta SAE ou projet perso. | Java, SQL |
+| **Nom du Projet 2** | Un autre super projet réalisé en cours. | Python |
+| **Site Web Perso** | Mon portfolio en ligne. | HTML, CSS |
+
+---
 
 ## 🛠 Mes Compétences
 
@@ -23,16 +32,6 @@ J'utilise GitHub pour partager mes projets ainsi que mes expérimentations perso
 ![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=flat-square&logo=pycharm&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=flat-square&logo=sqlite&logoColor=white)
-
----
-
-## 🚀 Mes Projets
-
-| Projet | Description | Stack |
-| :--- | :--- | :--- |
-| **Nom du Projet 1** | Description rapide de ta SAE ou projet perso. | Java, SQL |
-| **Nom du Projet 2** | Un autre super projet réalisé en cours. | Python |
-| **Site Web Perso** | Mon portfolio en ligne. | HTML, CSS |
 
 ---
 
