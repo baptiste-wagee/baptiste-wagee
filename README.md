@@ -12,7 +12,7 @@ Ce profil GitHub me sert de support pour regrouper l'ensemble de mes travaux tec
 | Nom | Description | Langages |
 | :--- | :--- | :--- |
 | **[Overtake](https://github.com/baptiste-wagee/Overtake)** | Description rapide de ta SAE ou projet perso. | Java, SQL |
-| **Nom du Projet 2** | Un autre super projet réalisé en cours. | Python |
+| **[Tamagotchi](https://github.com/baptiste-wagee/Tamagotchi/tree/main)** | Ce projet est un projet Tamagochi pour m'habituer a la programation java POO.<br> (Aucun cote graphique n'est maitrisé dans ce projet | Python |
 | **Site Web Perso** | Mon portfolio en ligne. | HTML, CSS |
 
 ---
