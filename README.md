@@ -45,5 +45,5 @@ Ce profil GitHub me sert de support pour regrouper l'ensemble de mes travaux tec
 ## ✉️ Me contacter
 
 Si mon profil ou mes compétences vous intéressent pour un stage ou un projet, vous trouverez ci-dessous mes coordonnées. Je suis ouvert à toute proposition d'échange concernant le développement ou l'informatique en général.
-- **Email :** [ton.email@exemple.com](mailto:ton.email@exemple.com)
+- **Email :** [wageebaptiste.pro@gmail.com](mailto:ton.email@exemple.com)
 - **LinkedIn :** [linkedin.com/in/ton-profil](https://linkedin.com/in/ton-profil)
