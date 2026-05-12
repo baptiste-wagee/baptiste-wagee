@@ -14,8 +14,9 @@ Ce profil GitHub me sert de support pour regrouper l'ensemble de mes travaux tec
 | Nom | Description | Langages |
 | :--- | :--- | :--- |
 | **[Overtake](https://github.com/baptiste-wagee/Overtake)** | Overtake est un site perso sur la F1 regroupant plusieurs aspects (marketing sportif et autres...). | HTML, CSS |
-| **[Tamagotchi](https://github.com/baptiste-wagee/Tamagotchi/tree/main)** | Ce projet est un projet Tamagotchi pour m'habituer à la programmation Java POO.<br> (Aucun côté graphique n'est maîtrisé lors du projet) | Java |
+| **[Tamagotchi](https://github.com/baptiste-wagee/Tamagotchi/tree/main)** | Ce projet est un projet Tamagotchi pour m'habituer à la programmation Java POO.<br> (Aucun côté graphique n'est maîtrisé lors du projet) | Java, JavaFx |
 | **[JS Wagee](https://github.com/baptiste-wagee/Site-JS-Wagee)** | JS Wagee est un site pour mon père permettant de mettre sa musique en avant. | HTML, CSS |
+| **[Lights-Off](https://github.com/baptiste-wagee/Lights-Off)** | Lights-Off est un petit jeu de lumiere. | Java, JavaFx |
 
 ---
 
