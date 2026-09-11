@@ -19,9 +19,6 @@
 Passionné par le web, l'IA et les nouvelles technologies, j'ai déjà conçu différentes applications, dont une application d'information sportive utilisée par une communauté internationale. Ce profil GitHub centralise mes projets académiques et personnels, et me sert à documenter ma progression technique (versioning, structuration du code, bonnes pratiques).
 
 - 🎓 **Formation actuelle :** BUT Informatique — IUT de l'Artois, Lens (depuis 2025)
-- 🎓 **Formation précédente :** Bac Sciences et Technologies de l'Industrie et du Développement Durable, spécialité Systèmes d'Information et Numérique, avec mention — Lycée Baggio, Lille
-- 📍 Basé à Sainghin-en-Weppes
-- 🚗 Véhiculé
 
 ---
 
@@ -69,29 +66,12 @@ Passionné par le web, l'IA et les nouvelles technologies, j'ai déjà conçu di
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 
-## 🌍 Langues
-
-- 🇫🇷 **Français** — Langue maternelle
-- 🇬🇧 **Anglais** — B2
-- 🇪🇸 **Espagnol** — A2
-
----
-
-## 💼 Expériences
-
-**Stage en tant que commis de cuisine** *(1 semaine)* — Les Trois Toqués, Sainghin-en-Weppes
-- Aide à la préparation en cuisine
-- Chargée de réception et du rangement des produits
-- Réalisation de la plonge
-
----
-
 <div align="center">
 
 ## ✉️ Me contacter
 
 Si mon profil ou mes compétences vous intéressent pour une alternance, un stage ou un projet, n'hésitez pas à me contacter :
 
-📧 [wageebaptiste.pro@gmail.com](mailto:wageebaptiste.pro@gmail.com) • 📱 07 68 74 40 11 • 💼 [LinkedIn](https://www.linkedin.com/in/baptiste-wag%C3%A9e-a79844392/) • 🌐 [baptistewagee.fr](https://baptistewagee.fr)
+📧 [wageebaptiste.pro@gmail.com](mailto:wageebaptiste.pro@gmail.com) • 💼 [LinkedIn](https://www.linkedin.com/in/baptiste-wag%C3%A9e-a79844392/) • 🌐 [baptistewagee.fr](https://baptistewagee.fr)
 
 </div>
