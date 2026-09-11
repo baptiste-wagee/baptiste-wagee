@@ -2,9 +2,8 @@
 
 # Salut, je suis Baptiste 👋
 
-### Étudiant en 2ᵉ année de BUT Informatique à l'IUT de l'Artois (Lens)
+### Étudiant de BUT Informatique à l'IUT de l'Artois (Lens)
 
-**🔍 En recherche d'une alternance en informatique dès janvier 2027**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/baptiste-wag%C3%A9e-a79844392/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://baptistewagee.fr)
