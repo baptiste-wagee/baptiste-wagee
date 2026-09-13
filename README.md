@@ -27,7 +27,7 @@ Passionné par le web, l'IA et les nouvelles technologies, j'ai déjà conçu di
 | :--- | :--- | :--- |
 | 🌐 **[Portfolio personnel](https://baptistewagee.fr)** | Mon site portfolio, hébergé sur Vercel avec un nom de domaine personnel (baptistewagee.fr). | HTML, CSS, JS |
 | 🏎️ **[Overtake](https://github.com/baptiste-wagee/Overtake)** | Projet web personnel sur la F1 : interface responsive et moderne, intégration de modules dynamiques en JavaScript, gestion et versioning du code via GitHub. | HTML, CSS, JS |
-| 👻 **Pacman** | Projet Java Pro : gestion des interfaces FXML, gestion du code pour les bots et la carte (map), suivi des bugs et des versions via Git. | Java, FXML |
+| 👻 **[Pacman](https://github.com/baptiste-wagee/PacMan)** | Projet Java Pro : gestion des interfaces FXML, gestion du code pour les bots et la carte (map), suivi des bugs et des versions via Git. | Java, FXML |
 | 🍕 **[Pizz'Eli](https://github.com/baptiste-wagee/Pizz-Eli)** | Site vitrine "one-page" pour une pizzeria : structure épurée et moderne, alignement et organisation soignés, animations JavaScript (dont une transition de logo au scroll). | HTML, CSS, JS |
 | 💡 **[Lights-Off](https://github.com/baptiste-wagee/Lights-Off)** | Jeu de réflexion et de logique en JavaFX : éteindre une grille de lumières en gérant l'inversion d'état des voisins (projet du module R2.02). | Java, JavaFX |
 | 🐾 **[Tamagotchi](https://github.com/baptiste-wagee/Tamagotchi/tree/main)** | Apprentissage de la programmation orientée objet en Java à travers la création d'un animal virtuel. | Java |
