@@ -1,3 +1,4 @@
+<div align="center">
 <img width="1200" height="300" alt="banner" src="https://github.com/user-attachments/assets/692df6a0-691d-489c-8305-af7882162feb" />
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/baptiste-wag%C3%A9e-a79844392/)
