@@ -1,4 +1,10 @@
-<img width="1200" height="300" alt="banner" src="https://github.com/user-attachments/assets/fe5fb7cf-8ffe-4995-a893-9b3f70968e95" /><div align="center">
+<div align="center">
+
+# Salut, je suis Baptiste 👋
+
+### Étudiant de BUT Informatique à l'IUT de l'Artois (Lens)
+
+<img src="./banner.svg" alt="Bannière Baptiste Wagée" width="100%" />
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/baptiste-wag%C3%A9e-a79844392/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://baptistewagee.fr)
@@ -30,27 +36,37 @@ Passionné par le web, l'IA et les nouvelles technologies, j'ai déjà conçu di
 
 ---
 
-## 📝 Langages & technologies
+## 📝 Langages
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,php,md,java,py,mysql,bash" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,php,md,java,py,bash,postgres" />
 </p>
 
-## 💻 Logiciels & outils
+## 💻 Logiciels
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=vscode,idea,eclipse,git,github,gitlab,gradle" />
+  <img src="https://skillicons.dev/icons?i=idea,vscode,eclipse" />
 </p>
 
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=flat-square&logo=canva&logoColor=white)
 ![Microsoft Office](https://img.shields.io/badge/Office-D83B01?style=flat-square&logo=microsoft-office&logoColor=white)
 
+## 🧰 Outils & frameworks
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,gitlab,gradle,flask,laravel" />
+</p>
+
 ## 🖥️ Systèmes
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=windows,linux" />
 </p>
+
+## 🌍 Langues
+
+🇫🇷 Français · 🇬🇧 Anglais · 🇪🇸 Espagnol
 
 <div align="center">
 
